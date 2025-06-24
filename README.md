@@ -12,6 +12,3 @@ Este repositorio contiene los elementos de mi perfil público, incluyendo una pl
 
 - El **código HTML y estructura** están licenciados bajo la Licencia MIT (ver archivo `LICENSE`).
 - El **imagotipo JEMG** **no puede ser reutilizado, modificado ni distribuido** sin autorización expresa del autor.
-
-
->>>>>>> db2941c (Licencia y README base)
