@@ -1,2 +1,2 @@
 # profile
-Repositorio para perfil pulico
+Repositorio para perfil público
